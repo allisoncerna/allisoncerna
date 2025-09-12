@@ -17,11 +17,11 @@
 ## 🚀 Highlighted Projects
 - 📊 Florida Health Care Data Analysis
 Analyzed hospital claims data in Excel using VLOOKUP, pivot tables, and charts to evaluate metrics such as cost/day and readmission rates.
--🐍 Python Data Visualization
+- 🐍 Python Data Visualization
 Processed and visualized datasets with Pandas & Matplotlib; created custom plots, bar charts, and pie charts with clear documentation.
--🗄️ SQL Customer & Order Analytics
+- 🗄️ SQL Customer & Order Analytics
 Wrote complex queries (joins, aggregates, filtering) to calculate sales metrics and identify top-performing agents.
--🌐 Anime Convention Survival Guide Website
+- 🌐 Anime Convention Survival Guide Website
 Built an interactive website with HTML, CSS, and JavaScript — including RSVP form validation, dark mode toggle, and image carousel.
 
 ## 💡 About Me
