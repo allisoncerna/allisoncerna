@@ -33,7 +33,7 @@ Evaluated hospital metrics (cost/day, readmission rates) using Excel, VLOOKUP, a
 #### [🐍 Python Data Visualization](link-to-repo)
 Automated the processing of large datasets using Pandas and Matplotlib to create interactive, documented visual stories.
 
-#### [🗄️ SQL Customer Analytics](link-to-repo)
+#### [🗄️ SQL Customer Analytics](https://github.com/allisoncerna/SQL/blob/main/Customer%20%26%20Order%20Analytics%20Project)
 Engineered complex queries using joins and aggregates to identify top-performing sales agents and business metrics.
 
 #### [🌐 Anime Convention Survival Guide](https://allisoncerna.github.io/Web101Project/)
