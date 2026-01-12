@@ -30,7 +30,7 @@ I’m a quietly ambitious developer and analyst who enjoys bridging the gap betw
 #### [📊 Florida Health Care Data Analysis](https://github.com/allisoncerna/Excel/blob/main/README.md)
 Evaluated hospital metrics (cost/day, readmission rates) using Excel, VLOOKUP, and Pivot Tables to drive operational insights.
 
-#### [🐍 Python Data Visualization](link-to-repo)
+#### [🐍 Python Data Visualization](https://github.com/allisoncerna/Python/blob/main/python-data-viz)
 Automated the processing of large datasets using Pandas and Matplotlib to create interactive, documented visual stories.
 
 #### [🗄️ SQL Customer Analytics](https://github.com/allisoncerna/SQL/blob/main/Customer%20&%20Order%20Analytics%20Project.sql)
