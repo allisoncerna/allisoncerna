@@ -27,7 +27,7 @@ I’m a quietly ambitious developer and analyst who enjoys bridging the gap betw
 
 ### 🚀 Featured Projects
 
-#### [📊 Florida Health Care Data Analysis](link-to-repo)
+#### [📊 Florida Health Care Data Analysis](https://github.com/allisoncerna/Excel/blob/main/README.md)
 Evaluated hospital metrics (cost/day, readmission rates) using Excel, VLOOKUP, and Pivot Tables to drive operational insights.
 
 #### [🐍 Python Data Visualization](link-to-repo)
