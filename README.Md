@@ -36,7 +36,7 @@ Automated the processing of large datasets using Pandas and Matplotlib to create
 #### [🗄️ SQL Customer Analytics](link-to-repo)
 Engineered complex queries using joins and aggregates to identify top-performing sales agents and business metrics.
 
-#### [🌐 Anime Convention Survival Guide](link-to-repo)
+#### [🌐 Anime Convention Survival Guide](https://allisoncerna.github.io/Web101Project/)
 A responsive web application built with JavaScript and CSS, featuring custom form validation and a dark mode toggle.
 
 ---
