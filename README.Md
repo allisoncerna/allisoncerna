@@ -30,11 +30,15 @@ I’m a quietly ambitious developer and analyst who enjoys bridging the gap betw
 #### [📊 Florida Health Care Data Analysis](https://github.com/allisoncerna/Excel/blob/main/README.md)
 Evaluated hospital metrics (cost/day, readmission rates) using Excel, VLOOKUP, and Pivot Tables to drive operational insights.
 
-#### [🐍 Python Data Visualization](https://github.com/allisoncerna/Python/blob/main/python-data-viz)
-Automated the processing of large datasets using Pandas and Matplotlib to create interactive, documented visual stories.
+#### [📂 Data Science & Analytics Portfolio](https://github.com/allisoncerna/Data-Science-Portfolio)
+This is my primary project hub, demonstrating the full data lifecycle—from automated ingestion and ETL to predictive modeling and visualization.
 
-#### [🗄️ SQL Customer Analytics](https://github.com/allisoncerna/SQL/blob/main/Customer%20&%20Order%20Analytics%20Project.sql)
-Engineered complex queries using joins and aggregates to identify top-performing sales agents and business metrics.
+* **Project 1: Personal Finance Leak Detection (Python)**
+    * **Tech:** `Python (Pandas)`, `Kaggle API`, `Matplotlib`, `GitHub Actions`
+    * **The Goal:** Automated the ingestion of 32,000+ records to identify spending "leaks" and forecast monthly surplus.
+* **Project 2: Corporate Profitability Analysis (SQL & Tableau)**
+    * **Tech:** `SQL (MySQL)`, `Relational Joins`, `Data Modeling`, `Tableau`
+    * **The Goal:** Engineered complex queries to evaluate business margins and visualize the relationship between operating costs and revenue.
 
 #### [🌐 Anime Convention Survival Guide](https://allisoncerna.github.io/Web101Project/)
 A responsive web application built with JavaScript and CSS, featuring custom form validation and a dark mode toggle.
