@@ -3,7 +3,7 @@
 ### **BS/MS Student @ Florida Atlantic University**
 **Computer Science (B.S.) & Data Science (M.S. & Analytics)** *Anticipated Graduation: Dec 2026 (BS) | Dec 2027 (MS)*
 
-I’m a quietly ambitious developer and analyst who enjoys bridging the gap between complex code and meaningful business insights. I thrive on deep-focus work, whether I'm architecting databases or building responsive web interfaces.
+I’m an ambitious developer and analyst who enjoys bridging the gap between complex code and meaningful business insights. I thrive on deep-focus work, whether I'm architecting databases or building responsive web interfaces.
 
 ---
 
