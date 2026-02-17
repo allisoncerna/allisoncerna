@@ -11,10 +11,10 @@ I’m an ambitious developer and analyst who enjoys bridging the gap between com
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | Python (Pandas, NumPy, Scikit-Learn), SQL (MySQL, SQLite), JavaScript, Java, C++ |
+| **Languages** | Python (Pandas, NumPy, Scikit-Learn), SQL (MySQL, SQLite) |
 | **Data & Analytics** | Tableau, Excel (VLOOKUP, PivotTables, Modeling), Statistical Analysis |
-| **Web Development** | React, Next.js, Tailwind CSS, HTML5/CSS3 |
-| **Development** | Git/GitHub, VS Code, Jupyter Notebooks |
+| **Web Development** |  JavaScript, HTML, CSS|
+| **Development** | GitHub, VS Code, Jupyter Notebooks, Google Collab |
 
 ---
 
