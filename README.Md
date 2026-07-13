@@ -3,7 +3,7 @@
 ### **BS/MS Student @ Florida Atlantic University**
 **Computer Science (B.S.) & Data Science (M.S. & Analytics)** *Anticipated Graduation: Dec 2026 (BS) | Dec 2027 (MS)*
 
-I’m an ambitious developer and analyst who enjoys bridging the gap between complex code and meaningful business insights. I thrive on deep-focus work, whether I'm architecting databases or building responsive web interfaces.
+I am a Technological Internal Auditor and Data Enthusiast who thrives at the intersection of advanced tech and investigative rigor. I believe in bridging the gap between raw, complex code and meaningful, actionable business insights. My passion lies in building scalable data solutions that uncover the truth, improve institutional efficiency, and bring transparency to complex organizational processes.
 
 ---
 
@@ -13,15 +13,20 @@ I’m an ambitious developer and analyst who enjoys bridging the gap between com
 | :--- | :--- |
 | **Languages** | Python (Pandas, NumPy, Scikit-Learn), SQL (MySQL, SQLite) |
 | **Data & Analytics** | Tableau, Excel (VLOOKUP, PivotTables, Modeling), Statistical Analysis |
-| **Web Development** |  JavaScript, HTML, CSS|
-| **Development** | GitHub, VS Code, Jupyter Notebooks, Google Collab |
+| **Web Development** | HTML, CSS|
+| **Development** | GitHub, VS Code, Jupyter Notebooks, Google Colab |
 
 ---
 
-### 📈 Current Focus (Spring 2026)
-* **Academic:** Diving into **Intro to Artificial Intelligence** and **Database Structures**.
-* **Certifications:** Completing the **IBM Data Science & Data Analyst** Professional Tracks.
-* **Projects:** Developing a **Financial Fraud Detection** tool and a **Personal Finance Optimizer**.
+### 📈 Current Focus (July 2026)
+* **Academic:** Diving into **Engineering Design 1** and **Grad Projects in EE and CS**.
+* **Professional:** Serving as an Internal Audit Intern for the City. I’m acting as a "data investigator," parsing cross-departmental datasets to uncover trends and verify fiscal compliance.
+* **Certifications:** Currently studying for the Certified Internal Auditor (CIA) designation to sharpen my investigative edge.
+* **Project Highligh:** Building MuniciPAL, an AI-driven administrative suite featuring:
+
+   * **Grant Compliance Assistant (GOST):** Streamlining the analysis of dense grant agreements.
+
+   * **Executive Summary Tool:** Automating service descriptions and compliance reports for city leadership.
 
 ---
 
@@ -56,7 +61,6 @@ A responsive web application built with JavaScript and CSS, featuring custom for
 ### 📫 Let's Connect!
 * **Email:** [acerna2024@fau.edu](mailto:acerna2024@fau.edu)
 * **LinkedIn:** (https://www.linkedin.com/in/allisoncerna) 
-*"Searching for a Summer 2026 Internship."*
 
 ---
 
