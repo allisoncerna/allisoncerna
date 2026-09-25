@@ -1,66 +1,67 @@
-# 👋 Hi, I'm Allison! 
+# 👋 Hi, I'm Allison 👻
 
-### **BS/MS Student @ Florida Atlantic University**
-**Computer Science (B.S.) & Data Science (M.S. & Analytics)** *Anticipated Graduation: Dec 2026 (BS) | Dec 2027 (MS)*
+**Data analyst in internal audit.** I reconcile and analyze spend data across a city's departments, and I build the
+pipelines, AI tools, and web apps that turn it into answers people can trust.
 
-I am a Technological Internal Auditor and Data Enthusiast who thrives at the intersection of advanced tech and investigative rigor. I believe in bridging the gap between raw, complex code and meaningful, actionable business insights. My passion lies in building scalable data solutions that uncover the truth, improve institutional efficiency, and bring transparency to complex organizational processes.
+Forensic Accounting (Internal Audit) at the **City of Delray Beach** · B.S. Computer Science + Minor in AI (Dec 2026) and
+M.S. Data Science & Analytics (Dec 2027) at Florida Atlantic University · studying for the **CIA** (Certified Internal
+Auditor)
 
 ---
 
-### 🛠️ Technical Toolkit
+### ⭐ Featured work
 
-| Category | Tools & Technologies |
+**[MuniciPAL](https://github.com/allisoncerna/MuniciPAL-CAP6951-Team13)**: RAG assistant for municipal policy · *Team lead*
+A retrieval-augmented system that answers questions about city ordinances and grant policies, with citations.
+**90% Precision@1** and **100% Hit@5** across 68 City of Delray Beach documents, and every answer grounded in a source.
+`Python` `ChromaDB` `sentence-transformers` `Gemini API` `RAG evaluation`
+
+**[Grant Compliance Assistant](https://github.com/GOST-Capstone-2026/usdr-gost-capstone)**: AI grant tooling for cities · *Evaluation & QA*
+Extends USDR's open-source Grants One Stop Tool to automate federal grant discovery and compliance tracking. I built
+PostgreSQL schemas, Grants.gov API integrations, and the QA framework that measures AI extraction accuracy.
+`PostgreSQL` `Node.js` `REST APIs` `LLM evaluation`
+
+**[The Midnight Spirit Patisserie](https://github.com/allisoncerna/The-Midnight-Spirit-Patisserie)**: explainable fraud detection
+A TensorFlow neural network flags suspicious transactions (**97.5% validation accuracy**), then Gemini writes a forensic
+memo explaining each flag so a human auditor can check the reasoning.
+`Python` `TensorFlow` `scikit-learn` `Gemini API`
+
+**[Corporate Profitability Analysis](https://github.com/allisoncerna/Data-Science-Portfolio/tree/main/Project-2-Corporate-Profitability)**: SQL + BI
+A MySQL database for multi-brand retail records, with CTEs and window functions for Net Margin, ROI, and
+return-to-revenue KPIs, reported in both Tableau and Power BI with matching numbers.
+`MySQL` `Tableau` `Power BI` `Data modeling`
+
+**[XP Boost: Survive Your First Con](https://allisoncerna.github.io/Web101Project/)**: my first website
+A multi-page anime convention guide with a validated RSVP form, dark mode, and a Reduce Motion toggle.
+`HTML` `CSS` `JavaScript`
+
+---
+
+### 🧰 Toolkit
+
+| | |
 | :--- | :--- |
-| **Languages** | Python (Pandas, NumPy, Scikit-Learn), SQL (MySQL, SQLite) |
-| **Data & Analytics** | Tableau, Excel (VLOOKUP, PivotTables, Modeling), Statistical Analysis |
-| **Web Development** | HTML, CSS|
-| **Development** | GitHub, VS Code, Jupyter Notebooks, Google Colab |
+| **Analysis** | Python (Pandas, NumPy, scikit-learn), SQL (MySQL, PostgreSQL, SQLite), Excel (Power Pivot, modeling), statistics |
+| **Visualization** | Tableau, Power BI, Matplotlib, Seaborn |
+| **AI** | RAG, ChromaDB, sentence-transformers, TensorFlow, Gemini API, prompt engineering, explainable AI |
+| **Building** | JavaScript, TypeScript, HTML/CSS, Astro, Express.js, Vite, Google Apps Script |
+| **Tools** | Git & GitHub, VS Code, Jupyter, Google Colab, Vercel, Netlify |
 
 ---
 
-### 📈 Current Focus (July 2026)
-* **Academic:** Diving into **Engineering Design 1** and **Grad Projects in EE and CS**.
-* **Professional:** Serving as an Internal Audit Intern for the City. I’m acting as a "data investigator," parsing cross-departmental datasets to uncover trends and verify fiscal compliance.
-* **Certifications:** Currently studying for the Certified Internal Auditor (CIA) designation to sharpen my investigative edge.
-* **Project Highligh:** Building MuniciPAL, an AI-driven administrative suite featuring:
+### 🕯️ Beyond the code
 
-   * **Grant Compliance Assistant (GOST):** Streamlining the analysis of dense grant agreements.
-
-   * **Executive Summary Tool:** Automating service descriptions and compliance reports for city leadership.
-
----
-
-### 🚀 Featured Projects
-
-#### [📊 Florida Health Care Data Analysis](https://github.com/allisoncerna/Excel/blob/main/README.md)
-Evaluated hospital metrics (cost/day, readmission rates) using Excel, VLOOKUP, and Pivot Tables to drive operational insights.
-
-#### [📂 Data Science & Analytics Portfolio](https://github.com/allisoncerna/Data-Science-Portfolio)
-This is my primary project hub, demonstrating the full data lifecycle—from automated ingestion and ETL to predictive modeling and visualization.
-
-* **Project 1: Personal Finance Leak Detection (Python)**
-    * **Tech:** `Python (Pandas)`, `Kaggle API`, `Matplotlib`, `GitHub Actions`
-    * **The Goal:** Automated the ingestion of 32,000+ records to identify spending "leaks" and forecast monthly surplus.
-* **Project 2: Corporate Profitability Analysis (SQL & Tableau)**
-    * **Tech:** `SQL (MySQL)`, `Relational Joins`, `Data Modeling`, `Tableau`
-    * **The Goal:** Engineered complex queries to evaluate business margins and visualize the relationship between operating costs and revenue.
-
-#### [🌐 Anime Convention Survival Guide](https://allisoncerna.github.io/Web101Project/)
-A responsive web application built with JavaScript and CSS, featuring custom form validation and a dark mode toggle.
-
----
-
-### 💡 Beyond the Code
-* **Supportive Leadership:** I enjoy spotting team strengths and helping peers excel in their roles.
-* **De-escalation:** Years of customer service taught me to stay calm and resourceful in high-pressure situations.
-* **Creative Roots:** Former **SFX Makeup Artist** for haunted houses—I love blending tech with unexpected creativity.
-* **Hobbies:** Writing, cosplay, and board game nights (where the best logic puzzles happen).
+- **Former SFX makeup artist for haunted houses**, so yes, my projects tend to be a little spooky.
+- Years in customer-facing roles taught me to stay calm under pressure and translate technical findings for anyone.
+- I like spotting what teammates are great at and helping them lean into it.
+- Off the clock: writing, cosplay, anime, and board game nights.
 
 ---
 
 ### 📫 Let's Connect!
-* **Email:** [acerna2024@fau.edu](mailto:acerna2024@fau.edu)
-* **LinkedIn:** (https://www.linkedin.com/in/allisoncerna) 
+
+[Email](mailto:acerna2024@fau.edu) · [LinkedIn](https://www.linkedin.com/in/allisoncerna) · Portfolio: *coming soon*
+
 
 ---
 
