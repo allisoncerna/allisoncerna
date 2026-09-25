@@ -4,7 +4,7 @@
 pipelines, AI tools, and web apps that turn it into answers people can trust.
 
 Forensic Accounting (Internal Audit) at the **City of Delray Beach** · B.S. Computer Science + Minor in AI (Dec 2026) and
-M.S. Data Science & Analytics (Dec 2027) at Florida Atlantic University · studying for the **CIA** (Certified Internal
+M.S. Data Science & Analytics (Dec 2027) at Florida Atlantic University · Member of the IIA · Studying for the **CIA** (Certified Internal
 Auditor)
 
 ---
