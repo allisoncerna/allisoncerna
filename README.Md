@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Allison 👻
 
-**Data analyst in internal audit.** I reconcile and analyze spend data across a city's departments, and I build the
+**Data analyst and Data Scientist in internal audit.** I reconcile and analyze spend data across a city's departments, and I build the
 pipelines, AI tools, and web apps that turn it into answers people can trust.
 
 Forensic Accounting (Internal Audit) at the **City of Delray Beach** · B.S. Computer Science + Minor in AI (Dec 2026) and
