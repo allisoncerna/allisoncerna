@@ -1,7 +1,7 @@
 <!-- The banner follows your GitHub theme: After Hours in dark mode, Office Hours in light mode. -->
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-office.png" />
-  <img width="100%" src="assets/banner-after.jpg" alt="Allison Cerna. I turn messy data into answers people can trust. Data, AI, full-stack, internal audit." />
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-office-v2.png" />
+  <img width="100%" src="assets/banner-after-v2.jpg" alt="Allison Cerna. I turn messy data into answers people can trust. Data, AI, full-stack, internal audit." />
 </picture>
 
 <p align="center">
